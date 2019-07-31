@@ -1,0 +1,11 @@
+C:\projetos\kafka.producer.console\bin\Debug\netcoreapp2.2\kafka.producer.console.deps.json
+C:\projetos\kafka.producer.console\bin\Debug\netcoreapp2.2\kafka.producer.console.runtimeconfig.json
+C:\projetos\kafka.producer.console\bin\Debug\netcoreapp2.2\kafka.producer.console.runtimeconfig.dev.json
+C:\projetos\kafka.producer.console\bin\Debug\netcoreapp2.2\kafka.producer.console.dll
+C:\projetos\kafka.producer.console\bin\Debug\netcoreapp2.2\kafka.producer.console.pdb
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.csprojAssemblyReference.cache
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.csproj.CoreCompileInputs.cache
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.AssemblyInfoInputs.cache
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.AssemblyInfo.cs
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.dll
+C:\projetos\kafka.producer.console\obj\Debug\netcoreapp2.2\kafka.producer.console.pdb

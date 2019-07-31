@@ -1,0 +1,11 @@
+C:\projetos\kafka.consumer.console\bin\Debug\netcoreapp2.2\kafka.consumer.console.deps.json
+C:\projetos\kafka.consumer.console\bin\Debug\netcoreapp2.2\kafka.consumer.console.runtimeconfig.json
+C:\projetos\kafka.consumer.console\bin\Debug\netcoreapp2.2\kafka.consumer.console.runtimeconfig.dev.json
+C:\projetos\kafka.consumer.console\bin\Debug\netcoreapp2.2\kafka.consumer.console.dll
+C:\projetos\kafka.consumer.console\bin\Debug\netcoreapp2.2\kafka.consumer.console.pdb
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.csprojAssemblyReference.cache
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.csproj.CoreCompileInputs.cache
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.AssemblyInfoInputs.cache
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.AssemblyInfo.cs
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.dll
+C:\projetos\kafka.consumer.console\obj\Debug\netcoreapp2.2\kafka.consumer.console.pdb
